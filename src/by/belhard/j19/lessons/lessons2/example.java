@@ -20,5 +20,11 @@ public class example {
  if(i<2222);
         System.out.println("i<2222");
         System.out.println(b*i);
+
+        double db=3.14;
+        System.out.println(2*db*i);
+        System.out.println(db*i*i);
+
+
     }
 }
