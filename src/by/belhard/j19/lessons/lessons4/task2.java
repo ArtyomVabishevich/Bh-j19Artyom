@@ -1,4 +1,4 @@
-package by.belhard.j19.lessons.lesson4;
+package by.belhard.j19.lessons.lessons4;
 
 public class task2 {
     public static void main(String[] args) {
